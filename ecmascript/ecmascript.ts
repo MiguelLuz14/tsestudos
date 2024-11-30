@@ -9,7 +9,6 @@ console.log (idade)
 
 //boolean
 let possuiHobbies: boolean = false
-//possuiHobbies = 1
 console.log(possuiHobbies)
 
 //tipos explícitos
