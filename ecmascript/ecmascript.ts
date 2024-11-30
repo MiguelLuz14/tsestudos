@@ -5,8 +5,6 @@ console.log(nome)
 
 //numbers
 let idade: number = 27
-//idade = 'ana'
-//idade = 27.5
 console.log (idade)
 
 //boolean
